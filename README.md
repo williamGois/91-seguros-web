@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="git_imagem/logo.png" alt="Logo">
+    <img src="git_images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">91-seguros-Web</h3>
