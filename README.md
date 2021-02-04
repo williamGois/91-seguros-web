@@ -38,13 +38,13 @@ Projeto esta hospedado: https://fiuzas.com.br/91-seguros
 
 <p align="center">
   <a href="">
-    <img src="git_imagem/1.png" alt="Logo">
+    <img src="git_images/1.png" alt="Logo">
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="git_imagem/2.png" alt="Logo">
+    <img src="git_images/2.png" alt="Logo">
   </a>
 </p>
 
