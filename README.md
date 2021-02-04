@@ -50,17 +50,17 @@ Projeto esta hospedado: https://fiuzas.com.br/91-seguros
 
 ### API
 
-//Lista produtos
+* Lista produtos
 ```sh 
     GET https://fiuzas.com.br/91-seguros/api/produtos 
 ```
 
-//Lista produto com id identificator
+* Lista produto com id identificator
 ```sh 
 GET https://fiuzas.com.br/91-seguros/api/produto/$id_produto ```
 ```
 
-//Mostra Produtos com essa categoria
+* Mostra Produtos com essa categoria
 ```sh
 GET https://fiuzas.com.br/91-seguros/api/categoria/$id_categoria
 ```
